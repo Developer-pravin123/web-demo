@@ -1,2 +1,2 @@
 # web-demo
-This is a basic demo repo
+This is a basic demo repository.
